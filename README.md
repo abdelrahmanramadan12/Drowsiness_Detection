@@ -1,4 +1,4 @@
-# Drowsiness_Detection
+# Drowsiness Detection
 
 This project implements a drowsiness detection system using computer vision and facial landmark detection techniques. It continuously monitors a person's eyes and triggers an alarm if signs of drowsiness are detected.
 
@@ -22,8 +22,8 @@ This project implements a drowsiness detection system using computer vision and 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/drowsiness-detection.git
-    cd drowsiness-detection
+    git clone https://github.com/abdelrahmanramadan12/Drowsiness_Detection.git
+    cd Drowsiness_Detection
     ```
 
 2. Install the required Python packages:
@@ -65,4 +65,5 @@ This project implements a drowsiness detection system using computer vision and 
     ```python
     s = serial.Serial('COM3', 9600)
     ```
+
 
